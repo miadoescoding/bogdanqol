@@ -1,0 +1,29 @@
+{
+  "destiny": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bogdanqol:destiny",
+        "stream": true
+      }
+    ]
+  },
+  "bk": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bogdanqol:bk",
+        "stream": true
+      }
+    ]
+  },
+  "icyFill": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bogdanqol:icyFill",
+        "stream": true
+      }
+    ]
+  }
+}
